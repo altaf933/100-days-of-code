@@ -24,7 +24,7 @@
 
 **Link to work:** [AndroidReadSMS](https://github.com/altaf933/AndroidReadSMS)
 
-### Day 4: January 07, 2017 (Example 1)
+### Day 4: January 08, 2017 (Example 1)
  
 **Today's Progress**: Added a sms runtime permission and change date formate.
 
@@ -32,7 +32,7 @@
 
 **Link to work:** [AndroidReadSMS](https://github.com/altaf933/AndroidReadSMS)
 
-### Day 5: January 08, 2017 (Example 2)
+### Day 5: January 09, 2017 (Example 2)
  
 **Today's Progress**: Read a union find data structure how it works. 
 
